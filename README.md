@@ -138,17 +138,16 @@ This will run the server using Nodemon.
 ![image alt](https://github.com/kondojumanasa/Personal-Expense-Tracker/blob/3ebb3be138fe22681149ef2631fa05b535eabe22/Screenshot%202024-10-23%20002219.png)
 
 ### 3. Retrieve a Transaction by ID
-![image alt](https://github.com/kondojumanasa/Personal-Expense-Tracker/blob/3c120d382e8e4b4afcc1f623514146ab46413718/Screenshot%202024-10-22%20002256.png)
+![image alt](https://github.com/kondojumanasa/Personal-Expense-Tracker/blob/a7c3f559b98ddb67e81d1dd638daec0e6364d10a/Screenshot%202024-10-23%20002256.png)
 
 ### 4. Update a Transaction
-![image alt](https://github.com/kondojumanasa/Personal-Expense-Tracker/blob/38714c8bb1a5ee310c6fb7865ba42b16c9618c74/Screenshot%202024-10-22%20002323.png)
+![image alt](https://github.com/kondojumanasa/Personal-Expense-Tracker/blob/a7c3f559b98ddb67e81d1dd638daec0e6364d10a/Screenshot%202024-10-23%20002323.png)
 
 ### 5. Delete a Transaction
-![image alt](https://github.com/kondojumanasa/Personal-Expense-Tracker/blob/38714c8bb1a5ee310c6fb7865ba42b16c9618c74/Screenshot%202024-10-22%20002340.png)
+![image alt](https://github.com/kondojumanasa/Personal-Expense-Tracker/blob/a7c3f559b98ddb67e81d1dd638daec0e6364d10a/Screenshot%202024-10-23%20002340.png)
 
 ### 6. Retrieve Summary
-![image alt](https://github.com/kondojumanasa/Personal-Expense-Tracker/blob/b129f5f60acfbe86dae5b24dbe4e9a592ecdb335/Screenshot%202024-10-22%20003316.png)
-
+![image alt](https://github.com/kondojumanasa/Personal-Expense-Tracker/blob/a7c3f559b98ddb67e81d1dd638daec0e6364d10a/Screenshot%202024-10-23%20003316.png)
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
