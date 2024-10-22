@@ -133,6 +133,7 @@ This will run the server using Nodemon.
 
 ### 1. Add a New Transaction
 ![Add Transaction](screenshots/add-transaction.png)
+![image alt](https://github.com/kondojumanasa/Personal-Expense-Tracker/blob/ea923012d8586db0c6fb67777c312a1a276d7e52/Screenshot%202024-10-22%20221500.png)
 
 ### 2. Retrieve All Transactions
 ![Get All Transactions](screenshots/get-all-transactions.png)
