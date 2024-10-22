@@ -132,26 +132,22 @@ This will run the server using Nodemon.
 ## Screenshots
 
 ### 1. Add a New Transaction
-![Add Transaction](screenshots/add-transaction.png)
 ![image alt](https://github.com/kondojumanasa/Personal-Expense-Tracker/blob/ea923012d8586db0c6fb67777c312a1a276d7e52/Screenshot%202024-10-22%20221500.png)
 
 ### 2. Retrieve All Transactions
-![Get All Transactions](screenshots/get-all-transactions.png)
-
+![image alt](https://github.com/kondojumanasa/Personal-Expense-Tracker/blob/b129f5f60acfbe86dae5b24dbe4e9a592ecdb335/Screenshot%202024-10-23%20000141.png)
 
 ### 3. Retrieve a Transaction by ID
-![Get Transaction by ID](screenshots/get-transaction-id.png)
 ![image alt](https://github.com/kondojumanasa/Personal-Expense-Tracker/blob/3c120d382e8e4b4afcc1f623514146ab46413718/Screenshot%202024-10-22%20221603.png)
 
 ### 4. Update a Transaction
-![Update Transaction](screenshots/update-transaction.png)
 ![image alt](https://github.com/kondojumanasa/Personal-Expense-Tracker/blob/38714c8bb1a5ee310c6fb7865ba42b16c9618c74/Screenshot%202024-10-22%20222004.png)
 
 ### 5. Delete a Transaction
 ![image alt](https://github.com/kondojumanasa/Personal-Expense-Tracker/blob/38714c8bb1a5ee310c6fb7865ba42b16c9618c74/Screenshot%202024-10-22%20222029.png)
 
 ### 6. Retrieve Summary
-![Summary](screenshots/get-summary.png)
+![image alt](https://github.com/kondojumanasa/Personal-Expense-Tracker/blob/b129f5f60acfbe86dae5b24dbe4e9a592ecdb335/Screenshot%202024-10-22%20235822.png)
 
 ## License
 
