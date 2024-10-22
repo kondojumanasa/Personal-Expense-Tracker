@@ -145,11 +145,10 @@ This will run the server using Nodemon.
 
 ### 4. Update a Transaction
 ![Update Transaction](screenshots/update-transaction.png)
-![image alt](https://github.com/kondojumanasa/Personal-Expense-Tracker/blob/3c120d382e8e4b4afcc1f623514146ab46413718/Screenshot%202024-10-22%20222004.png)
+![image alt](https://github.com/kondojumanasa/Personal-Expense-Tracker/blob/38714c8bb1a5ee310c6fb7865ba42b16c9618c74/Screenshot%202024-10-22%20222004.png)
 
 ### 5. Delete a Transaction
-![Delete Transaction](screenshots/delete-transaction.png)
-![image alt](https://github.com/kondojumanasa/Personal-Expense-Tracker/blob/3c120d382e8e4b4afcc1f623514146ab46413718/Screenshot%202024-10-22%20222029.png)
+![image alt](https://github.com/kondojumanasa/Personal-Expense-Tracker/blob/38714c8bb1a5ee310c6fb7865ba42b16c9618c74/Screenshot%202024-10-22%20222029.png)
 
 ### 6. Retrieve Summary
 ![Summary](screenshots/get-summary.png)
